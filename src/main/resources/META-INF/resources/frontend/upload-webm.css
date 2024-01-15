@@ -1,0 +1,16 @@
+vaadin-upload {
+    color: red;
+    border: 1px dashed hsl(0deg 91.13% 38.48%);
+}
+
+vaadin-upload > vaadin-button {
+    color: red;
+}
+
+vaadin-upload > span {
+    color: red;
+}
+
+vaadin-upload > vaadin-upload-icon {
+    color: red;
+}
